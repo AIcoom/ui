@@ -1,8 +1,8 @@
 {
     "txt2img/Prompt/visible": true,
-    "txt2img/Prompt/value": "masterpiece, ultra detailed, best quality, souryuu asuka langley is a nazi officer, SS, world war ii, black uniform, all black, officer's cap, suspenders, bare breasts, belly, collarbone, grin, selfie, posing, chocker, gloves, long leather coat, breeches, totalitarian aesthetics, retro, by Gottfried Helnwein",
+    "txt2img/Prompt/value": "masterpiece, best quality, asuka langley sitting cross legged on a chair",
     "txt2img/Negative prompt/visible": true,
-    "txt2img/Negative prompt/value": "(worst quality, low quality:1.2), lowres, blurry, greyscale, cross-eyed, facemask, extra fingers, missing fingers, poorly rendered hands, mutation, deformed iris, deformed pupils, asymmetric, watermark, cropped, FastNegativeEmbedding",
+    "txt2img/Negative prompt/value": "(worst quality, low quality:1.2), lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, jpeg artifacts, signature, watermark, username, blurry, artist name",
     "txt2img/Styles/visible": true,
     "txt2img/Styles/value": [],
     "txt2img/Sampling method/visible": true,
